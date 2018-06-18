@@ -3,7 +3,7 @@
  这是一个Android Library 带有下拉刷新和上拉加载更多的RecyclerView
 
 ### 截图
-![效果图](device-2018-06-18-192510.png)
+![效果图](device-2018-06-18-195157.webm)
 
 ### 引用依赖库
 ```groovy
@@ -13,6 +13,7 @@ dependencies {
 ```
 
 ### 使用教程
+
 1.在module的build.gradle引用依赖库
 ```groovy
 dependencies {
