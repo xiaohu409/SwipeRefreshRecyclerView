@@ -1,7 +1,7 @@
 # SwipeRefreshRecyclerView
 ### 概述 
  这是一个Android Library 带有下拉刷新和上拉加载更多的RecyclerView
-
+[![](https://jitpack.io/v/xiaohu409/SwipeRefreshRecyclerView.svg)](https://jitpack.io/#xiaohu409/SwipeRefreshRecyclerView)
 ### 截图
 ![效果图](device-2018-06-18-192510.png)
 
