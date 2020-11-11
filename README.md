@@ -12,9 +12,9 @@
 ```groovy
 allprojects {
     repositories {
-		...
-		maven { url 'https://jitpack.io' }
-	}
+	...
+	maven { url 'https://jitpack.io' }
+    }
 }
 ```
 2.在module的build.gradle引用依赖库
