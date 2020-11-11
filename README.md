@@ -11,26 +11,26 @@
 1.在项目的根目录build.gradle文件添加
 ```groovy
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+    repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 2.在module的build.gradle引用依赖库
-  ```groovy
-  dependencies {
-  	        implementation 'com.github.xiaohu409:SwipeRefreshRecyclerView:1.0'
-  	}
-  ```
+```groovy
+dependencies {
+    implementation 'com.github.xiaohu409:SwipeRefreshRecyclerView:1.0'
+}
+```
 
 ### 使用教程
 
 1.在module的build.gradle引用依赖库
 ```groovy
 dependencies {
-	        implementation 'com.github.xiaohu409:SwipeRefreshRecyclerView:1.0'
-	}
+    implementation 'com.github.xiaohu409:SwipeRefreshRecyclerView:1.0'
+}
 ```
 2.在xml布局文件里使用SwipeRefreshRecyclerView控件
 ```xml
