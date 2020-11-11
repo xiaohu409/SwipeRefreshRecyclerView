@@ -1,4 +1,4 @@
-package com.example.hutao.swiperefreshrecycler.baseadapter;
+package com.github.xiaohu409.swiperefreshrecycler.baseadapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

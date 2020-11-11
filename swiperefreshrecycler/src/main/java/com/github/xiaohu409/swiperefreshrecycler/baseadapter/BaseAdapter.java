@@ -1,4 +1,4 @@
-package com.example.hutao.swiperefreshrecycler.baseadapter;
+package com.github.xiaohu409.swiperefreshrecycler.baseadapter;
 
 /**
  * BaseAdapter
