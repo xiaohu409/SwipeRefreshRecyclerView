@@ -32,7 +32,7 @@ dependencies {
     android:layout_height="match_parent"
     tools:context=".SampleActivity">
 
-    <com.example.hutao.swiperefreshrecycler.widget.SwipeRefreshRecyclerView
+    <com.github.xiaohu409.swiperefreshrecycler.widget.SwipeRefreshRecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/swipe_refresh_recycler_view_id"/>

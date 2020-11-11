@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 
-import com.example.hutao.swiperefreshrecycler.widget.SwipeRefreshRecyclerView;
+import com.github.xiaohu409.swiperefreshrecycler.widget.SwipeRefreshRecyclerView;
 import com.example.hutao.swiperefreshrecyclerview.adapter.SampleAdapter;
 import com.example.hutao.swiperefreshrecyclerview.bean.SampleBean;
 import com.google.gson.Gson;

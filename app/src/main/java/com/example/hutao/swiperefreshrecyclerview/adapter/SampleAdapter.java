@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.hutao.swiperefreshrecycler.baseadapter.RecyclerBaseAdapter;
+import com.github.xiaohu409.swiperefreshrecycler.baseadapter.RecyclerBaseAdapter;
 import com.example.hutao.swiperefreshrecyclerview.R;
 import com.example.hutao.swiperefreshrecyclerview.bean.SampleBean;
 
